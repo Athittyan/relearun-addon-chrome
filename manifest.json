@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Relearun",
-  "description": "plugging chrome client server",
+  "description": "Plugin chrome client server",
   "version": "1.0",
   "permissions": [ 
     "http://*/*",
